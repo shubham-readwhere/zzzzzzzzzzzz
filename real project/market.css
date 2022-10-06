@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+.sec{
+padding:130px;
+}
+
+.a{
+ 
+   line-height: 55px;
+    padding-right: 50px;
+    margin-left:89px;
+    letter-spacing: 1px;
+}
+.b{
+    
+     margin-top: 24px;
+     padding-left: 80px;
+     letter-spacing: 1px;
+}
+.bb{
+    letter-spacing: 1px;
+    padding-left: 80px;
+}
+.cc{
+    width: 100%;
+    background-color: blue;
+}
